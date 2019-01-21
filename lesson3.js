@@ -8,6 +8,7 @@ while(a<100){
 }
 console.log(arr1);
 
+
 console.log('Ответ на второй вопрос');
 let b = 0;
 
